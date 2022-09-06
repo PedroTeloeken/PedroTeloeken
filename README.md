@@ -2,7 +2,7 @@
 > *Mire na lua. Mesmo que você erre cairá entre as estrelas*
 ## Quem é Pedro Teloeken?
 <div align='justify'>
-Meu nome é Pedro Teloeken, sou jovem e fascinado por programação, desde pequeno envolvido no mundo da tecnologia, mas realmente entrei na programação quando iniciei um curso em Java que me deu uma base muito forte em lógica e desde lá não parei de me aprofundar nos estudos e hoje estou me especializando em outras linguagens, sempre aberto para aprender uma nova.
+Meu nome é Pedro Teloeken, sou jovem e fascinado por programação, desde pequeno envolvido no mundo da tecnologia, mas realmente entrei na programação quando iniciei um curso em Java que me deu uma base muito forte em lógica e desde lá não parei de me aprofundar nos estudos e hoje estou me especializando em outras linguagens.
 </div> 
 
 ##
