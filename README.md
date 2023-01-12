@@ -8,8 +8,7 @@ Meu nome é Pedro Teloeken, sou jovem e fascinado por programação, desde peque
 ##
 
 <div align="center">
-  <a href="https://github.com/PedroTeloeken">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroteloeken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  username=pedroteloeken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteloeken&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
