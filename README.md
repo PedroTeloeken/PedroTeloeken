@@ -7,10 +7,6 @@ Meu nome é Pedro Teloeken, sou jovem e fascinado por programação, desde peque
 
 ##
 
-<div align="center">
-  username=pedroteloeken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroteloeken&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
