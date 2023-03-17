@@ -2,7 +2,7 @@
 > *Mire na lua. Mesmo que você erre cairá entre as estrelas*
 ## Quem é Pedro Teloeken?
 <div align='justify'>
-Meu nome é Pedro Teloeken, sou Dev Java e Mobile, desde muito jovem fascinado por tecnoliga, entrei no munda da programação quando iniciei um curso em Java com Spring Boot e SQl que me deu uma base muito forte em lógica e desde lá não parei de me aprofundar nos estudos e hoje atualmente estou estudando Sistemas da Informação na Furb.
+Meu nome é Pedro Teloeken, sou Dev Java e Mobile, desde muito jovem fascinado por tecnologia, entrei no munda da programação quando iniciei um curso em Java com Spring Boot e SQl que me deu uma base muito forte em lógica e desde lá não parei de me aprofundar nos estudos e hoje atualmente estou estudando Sistemas da Informação na Furb.
 </div> 
 
 ##
