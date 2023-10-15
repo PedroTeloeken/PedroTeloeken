@@ -2,7 +2,9 @@
 > *Mire na lua. Mesmo que você erre cairá entre as estrelas*
 ## Quem é Pedro Teloeken?
 <div align='justify'>
-Meu nome é Pedro Teloeken, sou Dev Java e Mobile, desde muito jovem fascinado por tecnologia, entrei no munda da programação quando iniciei um curso em Java com Spring Boot e SQl que me deu uma base muito forte em lógica e desde lá não parei de me aprofundar nos estudos e hoje atualmente estou estudando Sistemas da Informação na Furb.
+Olá! Tudo certo?
+
+Me chamo Pedro Teloeken sou desenvolvedor android na Joinin e estou cursando bacharel em Sistemas da Informação na Universidade Furb. Bom, comecei meus estudos na programação com um curso de programação em Java, mas logo fui para o desenvolvimento mobile. Comecei estudando kotlin com XML e constraints, mas atualmente no meu emprego atual utilizo kotlin com Jetpack Compose. Atuo na implementação de novas ferramentas, analiso e corrijo bugs, crio códigos mantendo padrão clean code e SOLID sempre respeitando a arquitetura MVVM, uso o Koin como injeção de dependência.
 </div> 
 
 ##
