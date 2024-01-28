@@ -4,7 +4,7 @@
 <div align='justify'>
 Olá! Tudo certo?
 
-Me chamo Pedro Teloeken sou desenvolvedor android na Joinin e estou cursando bacharel em Sistemas da Informação na Universidade Furb. Bom, comecei meus estudos na programação com um curso de programação em Java, mas logo fui para o desenvolvimento mobile. Comecei estudando kotlin com XML e constraints, mas atualmente no meu emprego atual utilizo kotlin com Jetpack Compose. Atuo na implementação de novas ferramentas, analiso e corrijo bugs, crio códigos mantendo padrão clean code e SOLID sempre respeitando a arquitetura MVVM, uso o Koin como injeção de dependência.
+Me chamo Pedro Teloeken sou desenvolvedor Android e estou cursando bacharel em Sistemas da Informação na Universidade Furb. Atualmente no meu trabalho como desenvolvedor Android utilizo Jetpack Compose para criação das interfaces, utilizo também, Kotlin Retrofit, Room, Koin, Coroutines, MVVM, Material Design 3, entre outros. Atuo na implementação de novas ferramentas, faço análise, corrijo bugs, crio códigos mantendo padrão clean code e SOLID sempre respeitando a arquitetura. 
 </div> 
 
 ##
